@@ -20,7 +20,7 @@ an e-commerce product details page and checkout flow for shoes.
 - Simple and intuitive checkout flow
 
 ## Prototype Link
-(Add your Figma prototype link here)
 
+(https://www.figma.com/design/QzI7hrME47L2hWpuNod3r2/Untitled?node-id=0-1&t=z4LKDICXpJdK12s6-1)
 ## Author
-Your Name
+potharaju keerthi
